@@ -26,7 +26,7 @@ function BannerFooter() {
             <img src="./imagens/logo.png" alt="logo da organo" />
           </div>
           <div className="d-flex align-items-center">
-            <p>Desenvolvido por Alura</p>
+            <p className="m-0">Desenvolvido por Alura</p>
           </div>
         </div>
       </section>
